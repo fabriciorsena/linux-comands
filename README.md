@@ -21,7 +21,7 @@ subl > abre o sublime subl + arquivo > abre o arquivo para edição
 Renomeie ações do sistema operacional. assim fica fácil gerenciar abas e adcionar funcionalidades extras no projeto via terminal.
 
 <pre>
-alias b="clear" 	
+alias b="clear" ou atalho Crtl + L	
 </pre>
 
 ### Atualização de pacotes do Linux
@@ -30,8 +30,31 @@ alias b="clear"
 sudo apt-get install update	
 </pre>
 
-### ssh do Linux
+### logando como Root no terminal detalhe! fico logado apenas no ambiente terminal
 
 <pre>
-	
+su	+ senha
+</pre>
+
+### Desligar o sistema
+
+Detalhe! Recomendado quando estamos em máquinas virtuais como virtual box, VWare player, ou ambiente Grunt. (para os comando funcionarem é preciso logar com root).
+
+<pre>
+halt + ENTER 	
+</pre>
+
+
+### Reinicialização do sistema
+
+<pre>
+reboot + ENTER	
+</pre>
+
+### (man) Documentação do Linux
+
+O linux possui uma biblioteca comentada para cada comando do sistema para saber mais informações sobre um comando utilize:
+
+<pre>
+man + nome do comando exemplo: man halt	
 </pre>
