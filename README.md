@@ -82,3 +82,11 @@ man + nome do comando exemplo: man halt
 | /proc/ |   Diretório virtual controlado pelo Kernel comconfiguração total do sistema |
 
 Créditos das informações das informações (Diretorios do Linux) para [nitro-informatica](http://nitro-infomatica.blogspot.com.br/)
+
+### Navegação nos Diretorios e pastas
+
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
