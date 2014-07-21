@@ -58,3 +58,11 @@ O linux possui uma biblioteca comentada para cada comando do sistema para saber 
 <pre>
 man + nome do comando exemplo: man halt	
 </pre>
+
+### Diretorios do Linux
+
+--- | --- | --- | --- | --- |
+/bin/ | Binários prncipais do usuário|
+/bin/ | Binários prncipais do usuário|
+/bin/ | Binários prncipais do usuário|
+
