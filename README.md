@@ -61,8 +61,9 @@ man + nome do comando exemplo: man halt
 
 ### Diretorios do Linux
 
---- | --- | --- | --- | --- |
-/bin/ | Binários prncipais do usuário|
-/bin/ | Binários prncipais do usuário|
-/bin/ | Binários prncipais do usuário|
-
+<pre>
+	/bin/ Binários principais do usuário. Os principais comandos do sistema
+	/boot/ Arqivos de inicialização do sistema o Kerneu
+	/dev/ Arqivos de dispositivo (entrada de discos, impressoroas, hds etc)
+	/etc/ Arquivos de configuração do sistema ex: configuração de rede
+</pre>
