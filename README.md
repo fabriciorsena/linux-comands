@@ -62,10 +62,12 @@ man + nome do comando exemplo: man halt
 ### Diretorios do Linux
 
 
-| First Header  | Second Header |
+| Diretórios  | Significado |
 | ------------- | ------------- |
-| /bin/  |  Binários principais do usuário. Os principais comandos do sistema  |
-| /boot/  |  Arqivos de inicialização do sistema o Kerneu  |
-| /dev/  |   Arqivos de dispositivo (entrada de discos, impressoroas, hds etc)  |
+| /bin/  |  Binários principais dos usuários. Os principais comandos do sistema  |
+| /boot/  |  Arquivos de sistema de boot ou inicialização do sistema o Kerneu  |
+| /dev/  |   Arqivos de dispositivo (entrada de discos, impressoroas, hds etc)   |
 | /etc/ |   Arquivos de configuração do sistema ex: configuração de rede  |
+| /home/ |   Diretórios dos usuários comuns do sistema |
+| /lib/ |   Biliotecas essenciais do sistema e módulos do kernel |
 
