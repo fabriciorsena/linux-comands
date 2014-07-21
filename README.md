@@ -70,4 +70,11 @@ man + nome do comando exemplo: man halt
 | /etc/ |   Arquivos de configuração do sistema ex: configuração de rede  |
 | /home/ |   Diretórios dos usuários comuns do sistema |
 | /lib/ |   Biliotecas essenciais do sistema e módulos do kernel |
+| /media/ |   Diretório de montagem de dispositivos |
+| /mnt/ |   Diretório de montagem de dispositivos - bem parecido |
+| /opt/ |   Instalação de programas não oficiais no linux |
+| /sbin/ |   Armazenam arquivos executaveis, comandos shotdown, shalt  |
+| /srv/ |   Diretório para dados de serviços fornecidos pelo sistema  |
+| /tmp/ |   Diretório de arquivos temporarios  |
+| /usr/ |   Segunda hierarqui do sistema, onde ficam os usuários comuns do sistema e programas.  |
 
