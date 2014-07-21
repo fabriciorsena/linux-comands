@@ -62,7 +62,7 @@ man + nome do comando exemplo: man halt
 ### Diretorios do Linux
 
 
-| Diretórios  | Significado |
+| Estrutura de Diretórios do Linux  | Significado dos Diretórios|
 | ------------- | ------------- |
 | /bin/  |  Binários principais dos usuários. Os principais comandos do sistema  |
 | /boot/  |  Arquivos de sistema de boot ou inicialização do sistema o Kerneu  |
