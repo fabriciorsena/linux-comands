@@ -87,10 +87,10 @@ Créditos das informações das informações (Diretorios do Linux) para [nitro-
 
 #### Listando diretorio atual
 
-| First Header  | Second Header || Second Header |
-| ------------- | ------------- || ------------- |
-| Content Cell  | Content Cell  || Content Cell  |
-| Content Cell  | Content Cell  || Content Cell  |
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 <pre>
 pwd	
