@@ -77,4 +77,6 @@ man + nome do comando exemplo: man halt
 | /srv/ |   Diretório para dados de serviços fornecidos pelo sistema  |
 | /tmp/ |   Diretório de arquivos temporarios  |
 | /usr/ |   Segunda hierarqui do sistema, onde ficam os usuários comuns do sistema e programas.  |
-
+| /var/ |   Dirétorios com arquivos variáveis gerados pelos programas do sistema. Exemplo: logs, spool impressoras, e-mail e cache   |
+| /root/ |   Diretório do usuário root - total poder sobre o sistema, instalar, desistalar etc.  |
+| /proc/ |   Diretório virtual controlado pelo Kernel comconfiguração total do sistema |
