@@ -80,3 +80,5 @@ man + nome do comando exemplo: man halt
 | /var/ |   Dirétorios com arquivos variáveis gerados pelos programas do sistema. Exemplo: logs, spool impressoras, e-mail e cache   |
 | /root/ |   Diretório do usuário root - total poder sobre o sistema, instalar, desistalar etc.  |
 | /proc/ |   Diretório virtual controlado pelo Kernel comconfiguração total do sistema |
+
+Créditos das informações das informações (Diretorios do Linux) para [nitro-informatica](http://nitro-infomatica.blogspot.com.br/)
