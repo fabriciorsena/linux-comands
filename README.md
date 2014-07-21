@@ -85,12 +85,12 @@ Créditos das informações das informações (Diretorios do Linux) para [nitro-
 
 ### Navegação nos Diretorios e pastas
 
-| First Header  | Second Header ||Three Header |
+#### Listando diretorio atual
+
+| First Header  | Second Header || Second Header |
 | ------------- | ------------- || ------------- |
 | Content Cell  | Content Cell  || Content Cell  |
 | Content Cell  | Content Cell  || Content Cell  |
-
-#### Listando diretorio atual
 
 <pre>
 pwd	
@@ -105,7 +105,7 @@ ls
 listando conteúdo de outro diretorio
 
 <pre>
-ls /dev
+ls /bin
 </pre>
 
 
