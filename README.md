@@ -85,6 +85,14 @@ Créditos das informações das informações (Diretorios do Linux) para [nitro-
 
 ### Navegação nos Diretorios e pastas
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 #### Listando diretorio atual
 
 <pre>
