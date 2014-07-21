@@ -89,21 +89,7 @@ Créditos das informações das informações (Diretorios do Linux) para [nitro-
 | ------------- | ------------- |
 | pwd	  |  lista diretorio atual |  
 | ls  | mostra conteúdo da pasta  |
-
-<pre>
-
-</pre>
-
-#### listando conteúdo do Diretorio/pasta
-
-<pre>
-ls 	
-</pre>
-
-listando conteúdo de outro diretorio
-
-<pre>
-ls /bin
-</pre>
+| ls /bin  | mostra conteúdo de outro diretorio |
+| ls  | mostra conteúdo da pasta  |
 
 
