@@ -85,8 +85,22 @@ Créditos das informações das informações (Diretorios do Linux) para [nitro-
 
 ### Navegação nos Diretorios e pastas
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
+#### Listando diretorio atual
+
+<pre>
+pwd	
+</pre>
+
+#### listando conteúdo do Diretorio/pasta
+
+<pre>
+ls 	
+</pre>
+
+listando conteúdo de outro diretorio
+
+<pre>
+ls /dev
+</pre>
+
+
