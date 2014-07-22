@@ -67,13 +67,24 @@ man + nome do comando exemplo: man halt
 
 ### Navegação nos Diretorios e pastas
 
-| comando  | Second Header |
+| comando  | significado |
 | ------------- | ------------- |
 | pwd	  |  lista diretorio atual |  
 | ls  | mostra conteúdo da pasta  |
 | ls /bin  | mostra conteúdo de outro diretorio |
 | ls - F | verifica as extensões dos arquivos  |
+| ls - l | mostra informações detalhadas  |
+| ls - a | arquivos ocultos  |
+| ls - Fa | mostra os tipos de arquivos mais os ocultos  |
 
+#### Acessando diretorios
+
+| comando  | significado |
+| ------------- | ------------- |
+| cd	  |  change directory |  
+| cd .. | retorna para pasta pai  |
+| cd -  | volta a pasta anterior |
+| cd ~ | retorna ao diretorio home  |
 
 ### Diretorios do Linux
 
