@@ -107,6 +107,14 @@ touch
 | grep -n  | exibe a linha da palavra encontrada =D =D =D |
 | grep | txt | tudo que seja txt |
 
+#### Metacaracteres
+
+| comando  | significado |
+| ------------- | ------------- |
+| ?	exemplo: ls file?  |  procura por números |  
+| *  | tudo  |
+| [12] | liste arquivos com ou ou dois números |
+| [1-5]| listando arquivos que possuam do 1 ao 5 com finais |
 
 #### Acessando diretorios
 
