@@ -12,6 +12,7 @@ Esse README, contém exemplos que foram retirados dos seguintes endereços: [cur
 Crtl + Alt + T	
 </pre> 
 
+oi
 ### Executar sublime via terminal
 
 É possivel ativar um gatilho e executar o editor Sublime via terminal. A primeira forma inicia o editor. A segunda, abre um arquivo para edição no editor.
