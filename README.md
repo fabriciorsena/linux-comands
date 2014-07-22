@@ -4,7 +4,7 @@ uma lista completa dos comando essenciais do Linux. Também por ser visto como g
 
 ## Direitos autoriais
 
-Esse README, contém exemplos que foram retirados dos seguintes endereços: [curso de linux.org](http://www.cursodelinux.org/modulo-1/modulo-1-fundamentos-do-sistema) e Créditos das informações das informações (Diretorios do Linux) para [nitro-informatica](http://nitro-infomatica.blogspot.com.br/)
+Esse README, contém exemplos que foram retirados dos seguintes endereços: [curso de linux.org](http://www.cursodelinux.org/modulo-1/modulo-1-fundamentos-do-sistema) e Créditos das informações (Diretorios do Linux) para [nitro-informatica](http://nitro-infomatica.blogspot.com.br/)
 
 ### Abrir o terminal
 
@@ -68,6 +68,19 @@ O linux possui uma biblioteca comentada para cada comando do sistema para saber 
 man + nome do comando exemplo: man halt	
 </pre>
 
+### Criar pasta
+
+<pre>
+mkdir	
+</pre>
+
+### criar arquivos (txt, .html, .md...)
+
+<pre>
+touch	
+</pre>
+
+
 ### Navegação nos Diretorios e pastas
 
 | comando  | significado |
@@ -80,6 +93,21 @@ man + nome do comando exemplo: man halt
 | ls - a | arquivos ocultos  |
 | ls - Fa | mostra os tipos de arquivos mais os ocultos  |
 
+### Comando de Buscas
+
+| comando  | significado |
+| ------------- | ------------- |
+| find	  |  lista diretorio atual |  
+| find / -name exemplo-busca  | pesquisando dentro de todos os diretorios pelo nome  |
+| find / -name init*  | pesquisa dentro de todos os diretorios que comecao com init |
+| find  --help  | ajuda crinças desesperadas |
+| locate txt | txt | realiza uma busca |
+| grep   | procura palavras dentro de arquivos =D |
+| grep "palavras exatas"  | procura palavras dentro de arquivos =D |
+| grep -n  | exibe a linha da palavra encontrada =D =D =D |
+| grep | txt | tudo que seja txt |
+
+
 #### Acessando diretorios
 
 | comando  | significado |
@@ -88,6 +116,7 @@ man + nome do comando exemplo: man halt
 | cd .. | retorna para pasta pai  |
 | cd -  | volta a pasta anterior |
 | cd ~ | retorna ao diretorio home  |
+
 
 ### Diretorios do Linux
 
