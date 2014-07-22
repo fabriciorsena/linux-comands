@@ -1,6 +1,10 @@
-# Linhas de comando do Linux
+# Essenciais linhas de comandos
 
-uma lista completa dos comando que uso no terminal Linux. Também por ser visto como guia pessoal para uso do Linux.
+uma lista completa dos comando essenciais do Linux. Também por ser visto como guia pessoal para comandos que uso.
+
+## Direitos autoriais
+
+Esse README, contém exemplos que foram retirados dos seguintes endereços: [curso de linux.org](http://www.cursodelinux.org/modulo-1/modulo-1-fundamentos-do-sistema) e Créditos das informações das informações (Diretorios do Linux) para [nitro-informatica](http://nitro-infomatica.blogspot.com.br/)
 
 ### Abrir o terminal
 
@@ -8,7 +12,7 @@ uma lista completa dos comando que uso no terminal Linux. Também por ser visto 
 Crtl + Alt + T	
 </pre> 
 
-### Executar sublime via terminal digite:
+### Executar sublime via terminal
 
 É possivel ativar um gatilho e executar o editor Sublime via terminal. A primeira forma inicia o editor. A segunda, abre um arquivo para edição no editor.
 
@@ -16,7 +20,7 @@ Crtl + Alt + T
 subl > abre o sublime subl + arquivo > abre o arquivo para edição
 </pre>
 
-### Alias (renomeria funcionalidades)
+### Alias (renomeando funcionalidades)
 
 Renomeie ações do sistema operacional. assim fica fácil gerenciar abas e adcionar funcionalidades extras no projeto via terminal.
 
@@ -49,7 +53,6 @@ Detalhe! Recomendado quando estamos em máquinas virtuais como virtual box, VWar
 <pre>
 halt + ENTER 	
 </pre>
-
 
 ### Reinicialização do sistema
 
@@ -108,6 +111,6 @@ man + nome do comando exemplo: man halt
 | /root/ |   Diretório do usuário root - total poder sobre o sistema, instalar, desistalar etc.  |
 | /proc/ |   Diretório virtual controlado pelo Kernel comconfiguração total do sistema |
 
-Créditos das informações das informações (Diretorios do Linux) para [nitro-informatica](http://nitro-infomatica.blogspot.com.br/)
+
 
 
