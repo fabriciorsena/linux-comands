@@ -27,7 +27,7 @@ alias b="clear" ou atalho Crtl + L
 ### cat (abre os arquivos no terminal)
 
 <pre>
-cat	
+cat	+ arquivo
 </pre>
 
 ### Atualização de pacotes do Linux
@@ -65,6 +65,16 @@ O linux possui uma biblioteca comentada para cada comando do sistema para saber 
 man + nome do comando exemplo: man halt	
 </pre>
 
+### Navegação nos Diretorios e pastas
+
+| comando  | Second Header |
+| ------------- | ------------- |
+| pwd	  |  lista diretorio atual |  
+| ls  | mostra conteúdo da pasta  |
+| ls /bin  | mostra conteúdo de outro diretorio |
+| ls - F | verifica as extensões dos arquivos  |
+
+
 ### Diretorios do Linux
 
 
@@ -88,14 +98,5 @@ man + nome do comando exemplo: man halt
 | /proc/ |   Diretório virtual controlado pelo Kernel comconfiguração total do sistema |
 
 Créditos das informações das informações (Diretorios do Linux) para [nitro-informatica](http://nitro-infomatica.blogspot.com.br/)
-
-### Navegação nos Diretorios e pastas
-
-| comando  | Second Header |
-| ------------- | ------------- |
-| pwd	  |  lista diretorio atual |  
-| ls  | mostra conteúdo da pasta  |
-| ls /bin  | mostra conteúdo de outro diretorio |
-| ls - F | verifica as extensões dos arquivos  |
 
 
