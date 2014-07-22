@@ -16,12 +16,18 @@ Crtl + Alt + T
 subl > abre o sublime subl + arquivo > abre o arquivo para edição
 </pre>
 
-### Alias
+### Alias (renomeria funcionalidades)
 
 Renomeie ações do sistema operacional. assim fica fácil gerenciar abas e adcionar funcionalidades extras no projeto via terminal.
 
 <pre>
 alias b="clear" ou atalho Crtl + L	
+</pre>
+
+### cat (abre os arquivos no terminal)
+
+<pre>
+cat	
 </pre>
 
 ### Atualização de pacotes do Linux
