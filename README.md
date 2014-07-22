@@ -17,7 +17,7 @@ Crtl + Alt + T
 É possivel ativar um gatilho e executar o editor Sublime via terminal. A primeira forma inicia o editor. A segunda, abre um arquivo para edição no editor.
 
 <pre>
-subl > abre o sublime subl + arquivo > abre o arquivo para edição
+subl > abre o sublime subl + arquivo > abre o arquivo para edição. subl -n -w para abrir um novo arquivo em uma nova aba
 </pre>
 
 ### Alias (renomeando funcionalidades)
@@ -68,18 +68,21 @@ O linux possui uma biblioteca comentada para cada comando do sistema para saber 
 man + nome do comando exemplo: man halt	
 </pre>
 
-### Criar pasta
 
-<pre>
-mkdir	
-</pre>
+### Manipulação de Arquivos
 
-### criar arquivos (txt, .html, .md...)
-
-<pre>
-touch	
-</pre>
-
+| comando  | significado |
+| ------------- | ------------- |
+| mkdir	  |  cria pasta |  
+| touch | cria e atualiza arquvos (.txt, html, .sh, .pub etc...) |
+| ls /bin  | mostra conteúdo de outro diretorio |
+| mkdir -p | permite criar vários pastas dentro uma das outras  |
+| rm | remove arquivos  |
+| rm -r | apaga diretorios  |
+| rmdir - a | apaga apenas diretorios vazios  |
+| rmdir -p|  permite apagr varios diretorios  |
+| cp |  copias arquivos  |
+| mv |  moves arquivos e também renomeia arquivos|
 
 ### Navegação nos Diretorios e pastas
 
