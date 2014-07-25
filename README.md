@@ -34,11 +34,62 @@ alias b="clear" ou atalho Crtl + L
 cat	+ arquivo
 </pre>
 
+### Url de configutação das atualizações
+
+<pre>
+/etc/apt/sources.list	
+</pre>
+
 ### Atualização de pacotes do Linux
 
 <pre>
 sudo apt-get install update	
 </pre>
+
+### Instalando programas (pacotes)
+
+<pre>
+apt-get install + programa	
+</pre>
+
+### Desinstala programas
+
+<pre>
+apt-get remove + programa	
+</pre>
+
+### Desinstala pacotes junto com configurações
+
+<pre>
+apt-get --purge remove	
+</pre>
+
+### Apaga sobras de instalações mal não concluídas
+
+<pre>
+apt-get autoclean
+</pre>
+
+### Atualiza os pacotes instalados no sistema
+
+<pre>
+apt-get  upgrade 	
+</pre>
+
+### Atualiza a distruibuição Linux
+
+<pre>
+apt-get dist-upgrade	
+</pre>
+
+### Procura na lista um pacote especificado
+
+<pre>
+apt-cache search	
+</pre>
+
+
+
 
 ### logando como Root no terminal detalhe! fico logado apenas no ambiente terminal
 
